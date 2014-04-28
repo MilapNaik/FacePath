@@ -1,5 +1,8 @@
 FacePath
 ========
+Created by Milap Naik and Sushmitha Radhakrishnan
+
+Download FacePath.jar to see our project
 
 ###1. Project design - 
 
