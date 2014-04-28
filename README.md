@@ -31,7 +31,7 @@ FacePath
  
 	▪	Which group member worked on what parts? 
 
-	  ⁃	Milap - GUI, facePath, userProfile
+	  ⁃	Milap - GUI, facePath, userProfile\n
 	  ⁃	Sushi - BFP, HashSC, SequentialSearchST 
 	  ⁃	We each focused on certain classes/parts of our final program, but there was definitely a lot of collaboration that happened regardless. By the end of the program, we each had contributed something to each class. 
 	  
